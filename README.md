@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/be4ac165-813e-455c-b88c-b1b012763740)
 
 
-# Resume: Samba Siva Rao Komaragiri
+# Profile: Samba Siva Rao Komaragiri
 
 [Download Resume (PDF)](https://github.com/s-komaragiri/profile/blob/main/skomaragiri_resume_usb_detailed_consultant.pdf)
 
