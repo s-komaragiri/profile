@@ -2,7 +2,7 @@
 <!-- Banner Image -->
 ![Banner](https://github.com/user-attachments/assets/be4ac165-813e-455c-b88c-b1b012763740)
 
-# 👨‍💻 Siva Komaragiri - *Senior Android Engineer*
+## 👨‍💻 Siva Komaragiri - *Senior Android Engineer*
 
 📧 **Email:** sambasivarao.komaragiri@gmail.com  
 📞 **Phone:** +1 346-888-7909  
